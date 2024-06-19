@@ -1,4 +1,4 @@
-# Smartphone-Sales-Performance-Dashboard
+# Smartphone Sales Performance Dashboard
 
 ![Dashboard Preview](https://github.com/aniketchhaikuria/Smartphone-Sales-Performance-Dashboard/assets/171453889/b7d3599b-3caf-43a3-a918-fa6bdc87f518)
 
