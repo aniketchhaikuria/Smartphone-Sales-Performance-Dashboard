@@ -26,7 +26,7 @@ The data for this project was obtained from the [Smartphone Sale Dataset](https:
 
 ## How to Use
 
-1. **View the Dashboard**: Open the `https://public.tableau.com/app/profile/aniket.chhaikuria/viz/SmartphonePerformaceDashboard/Dashboard1` link in Tableau to explore the interactive dashboard.
+1. **View the Dashboard**: Open the [Dashboard] (https://public.tableau.com/app/profile/aniket.chhaikuria/viz/SmartphonePerformaceDashboard/Dashboard1) link in Tableau to explore the interactive dashboard.
 2. **Filter and Interact**: Use the filters on the dashboard to drill down into specific details.
 3. **Review the Queries**: Check the `SQL_queries.sql` file for the SQL queries used in data preprocessing.
 
