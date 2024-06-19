@@ -1,4 +1,3 @@
-I understand. Here are the explanations directly alongside the queries:
 
 1. **Fetching Sample Data:**
    ```sql
