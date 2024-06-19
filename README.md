@@ -38,4 +38,4 @@ The data for this project was obtained from the [Smartphone Sale Dataset](https:
 
 ## Contact
 
-For any questions or suggestions, feel free to contact [Your Name](mailto:your.email@example.com).
+For any questions or suggestions, feel free to contact [Aniket Chhaikuria](mailto:ca26072000@gmail.com).
