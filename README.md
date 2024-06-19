@@ -1,5 +1,4 @@
 # Smartphone-Sales-Performance-Dashboard
-# Smartphone Sales Dashboard
 
 ![Dashboard Preview](https://github.com/aniketchhaikuria/Smartphone-Sales-Performance-Dashboard/assets/171453889/b7d3599b-3caf-43a3-a918-fa6bdc87f518)
 
@@ -9,7 +8,7 @@ This project analyzes smartphone sales data to identify key insights and trends.
 
 ## Project Structure
 
-- `smartphone_sales_dashboard.twbx`: The Tableau workbook file containing the dashboard.
+- `Smartphone Performance Dashboard.twbx`: The Tableau workbook file containing the dashboard.
 - `smartphone_sales.csv`: The dataset used for the analysis.
 - `SQL_queries.sql`: SQL queries used to preprocess and analyze the data.
 - `README.md`: Project documentation and overview.
